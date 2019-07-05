@@ -6,7 +6,7 @@
 *[Your Cohort, Campus & Date]*
 
 ## Content
-- [Project Description](#project-description)
+- [Project Description] "Esta es la descripción del proyecto"
 - [Workflow](#workflow)
 - [Organization](#organization)
 - [Links](#links)
